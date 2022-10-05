@@ -1,12 +1,10 @@
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center">
+<div align="center">
   <h1>Bank Go</h1>
-    <div>
         <img alt="Last commit" src="https://img.shields.io/github/last-commit/janapc/bank-go"/>
         <img alt="Language top" src="https://img.shields.io/github/languages/top/janapc/bank-go"/>
         <img alt="Repo size" src="https://img.shields.io/github/repo-size/janapc/bank-go"/>
-    </div>
 </div>
-<div style="display: flex; align-items: center; justify-content: center">
+<div align="center">
  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-requirement">Requirement</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-runner">Requirement</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
